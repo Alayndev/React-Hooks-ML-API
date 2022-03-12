@@ -11,4 +11,4 @@ Buscador de ML con React Hooks: https://alayndev.github.io/React-Hooks-ML-API/
 
 - Webpack
 
-- Typescript
+- TypeScript
