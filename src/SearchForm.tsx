@@ -25,7 +25,7 @@ function SearchForm(props: SearchFormProps) {
           placeholder=" Buscar productos, marcas y más..."
           required
         />
-        <button className="search-button">Buscar</button>
+        <button className="search-button">BUSCAR</button>
       </form>
     </>
   );
